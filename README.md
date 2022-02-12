@@ -13,8 +13,8 @@ Motivated student, curious and passionate about the latest technologies 🌐 and
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently studying at **FSJEGJ**
-- 🤝 &nbsp; I’m looking for Job opportunities .
-- 🌱 &nbsp; I’m currently learning DevOps culture; 
+- 🤝 &nbsp; I’m looking for Job opportunities 
+- 🌱 &nbsp; I’m currently learning DevOps culture
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/DridiJasser?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jasser-dridi-2329781a6/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1fBSclvcyIxoyMGMVu4hfcEJJeRyavTGm/view?usp=sharing)
