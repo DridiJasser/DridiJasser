@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
 
 
 ## Hey 👋, I'm Dridi Jasser!
