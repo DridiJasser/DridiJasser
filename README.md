@@ -3,7 +3,7 @@
 ## Hey 👋, I'm Dridi Jasser!
 
 
-Motivated student, curious and passionate about the latest technologies and who is able to develop appropriate solutions for the needs of clients. With the spirit of good integration into a lively and knowledgeable team.
+Motivated student, curious and passionate about the latest technologies 🌐 and who is able to develop appropriate solutions for the needs of clients.🛠️ With the spirit of good integration into a lively and knowledgeable team.:two_men_holding_hands:
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
