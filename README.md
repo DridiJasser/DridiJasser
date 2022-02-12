@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text="Hey 👋, I'm Dridi Jasser")
+![header](https://capsule-render.vercel.app/api?type=waving&text=HeyI'm Dridi Jasser)
 
 
 ## Hey 👋, I'm Dridi Jasser!
