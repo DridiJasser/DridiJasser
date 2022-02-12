@@ -5,10 +5,10 @@
 
 Motivated student, curious and passionate about the latest technologies 🌐 and who is able to develop appropriate solutions for the needs of clients.🛠️ With the spirit of good integration into a lively and knowledgeable team.:two_men_holding_hands:
 
-<br/>
+
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="390px"/>
   
 ### 🧐 More About Me:
 
@@ -33,16 +33,15 @@ Motivated student, curious and passionate about the latest technologies 🌐 and
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
 <br>
-
+<br>
 
 ### 📊 Github Stats
   
 ![Stats Overview](https://github.com/DridiJasser/github-stats-transparent/blob/output/generated/overview.svg)
 ![Most Used Languages](https://github.com/DridiJasser/github-stats-transparent/blob/output/generated/languages.svg)
 
-</a>
 
 <br>
 
 ### 🛠️ My Projects
-Nothing For Now..
+## Remarkable projects ahead... :raised_hand:
