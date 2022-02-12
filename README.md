@@ -44,4 +44,4 @@ Motivated student, curious and passionate about the latest technologies 🌐 and
 <br>
 
 ### 🛠️ My Projects
-<spam > #### Remarkable projects ahead... :raised_hand: </spam>
+<b >  Remarkable projects ahead... :raised_hand: </b>
